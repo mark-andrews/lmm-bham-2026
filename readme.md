@@ -20,18 +20,28 @@ Instructions on how to install all the software is [here](software.md).
 Implement varying intercept and varying slope models.
 Gain practical experience fitting and interpreting these models in R.
 
+- [Workshop guide](https://courses.mjandrews.org/immr/linear-mixed-effects-models.html) | [Slides](https://courses.mjandrews.org/immr/slides/linear-mixed-effects-models_slides.html)
+
 ### Topic 2: Mixed Effects Models for Nested Data
 
 Learn to model hierarchical data structures in which lower-level units are nested within higher-level groups.
 Understand how nesting affects statistical assumptions and model fit.
+
+- [Workshop guide](https://courses.mjandrews.org/immr/multilevel-nested-data.html) | [Slides](https://courses.mjandrews.org/immr/slides/multilevel-nested-data_slides.html)
 
 ### Topic 3: Mixed Effects Models for Crossed Data
 
 Handle datasets where observations are simultaneously classified by two or more independent grouping factors.
 Compare and contrast nested and crossed data structures.
 
+- [Workshop guide](https://courses.mjandrews.org/immr/multilevel-crossed-data.html) | [Slides](https://courses.mjandrews.org/immr/slides/multilevel-crossed-data_slides.html)
+
 ### Topic 4: Further Topics
 
 Incorporate and interpret predictors that vary at the group level.
 Use marginal and conditional R-squared to evaluate model fit and understand how variance is partitioned between levels.
 Learn how to perform power analysis for mixed effects studies by simulation.
+
+- Group-level predictors: [Workshop guide](https://courses.mjandrews.org/immr/group-level-predictors.html) | [Slides](https://courses.mjandrews.org/immr/slides/group-level-predictors_slides.html)
+- Explained variance: [Workshop guide](https://courses.mjandrews.org/immr/explained-variance.html) | [Slides](https://courses.mjandrews.org/immr/slides/explained-variance_slides.html)
+- Power analysis: [Workshop guide](https://courses.mjandrews.org/immr/power-analysis.html) | [Slides](https://courses.mjandrews.org/immr/slides/power-analysis_slides.html)
